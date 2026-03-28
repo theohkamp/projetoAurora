@@ -34,4 +34,6 @@ Projeto Criado em Python, organizado em estrutura MVC (Model - View - Controller
 
   NÃO DECOLAR
 
-![Falha](projetoAurora/images/falha.png) (Entre parênteses, o valor inserido pelo usuário)
+![Falha](projetoAurora/images/falha.png) 
+
+(Entre parênteses, o valor inserido pelo usuário)
